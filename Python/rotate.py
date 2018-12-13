@@ -9,3 +9,4 @@ for i in range(rotate_times):
     newarr[newarr.__len__()-1] = temp
 print(newarr)
 #test
+#testgit
